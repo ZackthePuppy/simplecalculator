@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\Simple Calculator\bin\Debug\net8.0-windows\Simple Calculator.exe
+C:\Users\Administrator\source\repos\Simple Calculator\bin\Debug\net8.0-windows\Simple Calculator.deps.json
+C:\Users\Administrator\source\repos\Simple Calculator\bin\Debug\net8.0-windows\Simple Calculator.runtimeconfig.json
+C:\Users\Administrator\source\repos\Simple Calculator\bin\Debug\net8.0-windows\Simple Calculator.dll
+C:\Users\Administrator\source\repos\Simple Calculator\bin\Debug\net8.0-windows\Simple Calculator.pdb
+C:\Users\Administrator\source\repos\Simple Calculator\obj\Debug\net8.0-windows\Simple_Calculator.Form1.resources
+C:\Users\Administrator\source\repos\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.AssemblyInfo.vb
+C:\Users\Administrator\source\repos\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.dll
+C:\Users\Administrator\source\repos\Simple Calculator\obj\Debug\net8.0-windows\refint\Simple Calculator.dll
+C:\Users\Administrator\source\repos\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.pdb
+C:\Users\Administrator\source\repos\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Simple Calculator\obj\Debug\net8.0-windows\ref\Simple Calculator.dll
